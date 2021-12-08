@@ -1,0 +1,17 @@
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.2\JWTAuthentication.deps.json
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.2\JWTAuthentication.runtimeconfig.json
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.2\JWTAuthentication.runtimeconfig.dev.json
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.2\JWTAuthentication.dll
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.2\JWTAuthentication.pdb
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.csprojAssemblyReference.cache
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.AssemblyInfoInputs.cache
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.AssemblyInfo.cs
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.csproj.CoreCompileInputs.cache
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.RazorAssemblyInfo.cache
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.RazorAssemblyInfo.cs
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.RazorTargetAssemblyInfo.cache
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.dll
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.pdb
+C:\Kerja\Belajar\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.genruntimeconfig.cache
